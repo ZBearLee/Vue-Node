@@ -1,7 +1,7 @@
 
 ## 安装
 ```
-cd Vue_Express_Session_Node
+cd vue-express_session-webpack
 npm install
 cd server
 npm install
@@ -10,7 +10,7 @@ npm install
 ```
 cd server
 nodemon app.js
-cd Vue_Express_Session_Node
+cd vue-express_session-webpack
 webpack-dev-server --open --hot
 
 ```
